@@ -1,0 +1,24 @@
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.exe.manifest
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.application
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.exe
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.pdb
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\obj\Debug\proyecto v1.0.csprojAssemblyReference.cache
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Form1.resources
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Properties.Resources.resources
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\obj\Debug\proyecto v1.0.csproj.GenerateResource.cache
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.exe.manifest
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.application
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.exe
+C:\Users\irons\Desktop\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.pdb
+D:\Documents\ale\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.exe.manifest
+D:\Documents\ale\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.application
+D:\Documents\ale\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.exe
+D:\Documents\ale\Encendiendo led\Encendiendo led\bin\Debug\Encendiendo led.pdb
+D:\Documents\ale\Encendiendo led\Encendiendo led\obj\Debug\proyecto v1.0.csprojAssemblyReference.cache
+D:\Documents\ale\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Form1.resources
+D:\Documents\ale\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo_led.Properties.Resources.resources
+D:\Documents\ale\Encendiendo led\Encendiendo led\obj\Debug\proyecto v1.0.csproj.GenerateResource.cache
+D:\Documents\ale\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.exe.manifest
+D:\Documents\ale\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.application
+D:\Documents\ale\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.exe
+D:\Documents\ale\Encendiendo led\Encendiendo led\obj\Debug\Encendiendo led.pdb
